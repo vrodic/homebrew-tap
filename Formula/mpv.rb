@@ -2,6 +2,7 @@ class Mpv < Formula
   desc "Media player based on MPlayer and mplayer2 (--media-controls honored on macOS)"
   homepage "https://mpv.io"
   url "https://github.com/vrodic/mpv/archive/refs/tags/v0.42.0-mc1.tar.gz"
+  version "0.42.0-mc1"
   sha256 "a54f1b3b009aeb68d0b62c82a1bbbaa9f496dcfc8af17b9b39c3701ad07a3c76"
   license all_of: ["GPL-2.0-or-later", "LGPL-2.1-or-later"]
   compatibility_version 1
